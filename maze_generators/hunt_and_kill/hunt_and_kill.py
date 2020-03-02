@@ -1,6 +1,6 @@
 
 
-from maze_generators_recursive_backtracking.recursive_backtracking import RecursiveBacktracking
+from maze_generators.recursive_backtracking.recursive_backtracking import RecursiveBacktracking
 
 class Hunt_and_Kill(RecursiveBacktracking):
 
